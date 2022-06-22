@@ -15,13 +15,7 @@ It is a combination of html and markdown.  -->
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  
-
  
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-   
-
 
  <h3 align="center">Brookman Repositories</h3>
 
