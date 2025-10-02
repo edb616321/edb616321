@@ -1,7 +1,11 @@
-# Hey there! 👋 I'm Edward Brookman
+<div align="center">
 
-**AI Engineer | DevOps | Cloud Architect | Web Developer**
+# Edward Brookman
+
+**AI Engineer | DevOps | Cloud Architect | Web Developer**  
 📍 Seattle, Washington | 🚀 Founder @ [Rexcom.io](https://www.rexcom.io)
+
+</div>
 
 ---
 
@@ -34,24 +38,24 @@ I'm an AI Engineer and DevOps specialist based in Seattle, combining **machine l
 Here are some of the projects I'm openly sharing. Each represents real work, real challenges, and real solutions:
 
 ### 🎙️ [edward-voice-production](https://github.com/edb616321/edward-voice-production)
-**Professional Voice Cloning System**
+**Professional Voice Cloning System**  
 A production-grade voice synthesis setup using **Tortoise-TTS** with dual RTX 4090 GPUs. This isn't just a toy—it's a full pipeline for creating high-quality, natural-sounding voice clones for creative and professional applications.
 
-**Tech Stack:** PyTorch, Tortoise-TTS, CUDA, Python
+**Tech Stack:** PyTorch, Tortoise-TTS, CUDA, Python  
 **Focus:** Real-time inference, quality optimization, production deployment
 
 ### 🎮 [godot-test2-paper-mario](https://github.com/edb616321/godot-test2-paper-mario)
-**Paper Mario-Style RPG with LLM-Powered NPCs**
+**Paper Mario-Style RPG with LLM-Powered NPCs**  
 An experimental game built in Godot featuring NPCs that use **Large Language Models** for dynamic, context-aware conversations. No scripted dialogue trees—these characters actually understand and respond naturally.
 
-**Tech Stack:** Godot Engine, GDScript, LLM APIs, Python
+**Tech Stack:** Godot Engine, GDScript, LLM APIs, Python  
 **Focus:** Game AI integration, natural conversation systems, real-time LLM inference
 
 ### 🕹️ [edb-game-poc-1](https://github.com/edb616321/edb-game-poc-1)
-**Unity WebGL AI Interface Game (Proof of Concept)**
+**Unity WebGL AI Interface Game (Proof of Concept)**  
 A Unity-based prototype exploring AI-driven game interfaces and interactions. Testing how AI can enhance player experiences and create more adaptive gameplay.
 
-**Tech Stack:** Unity, C#, WebGL, AI APIs
+**Tech Stack:** Unity, C#, WebGL, AI APIs  
 **Focus:** Interactive AI systems, browser-based deployment, experimental UX
 
 ---
@@ -116,11 +120,11 @@ Right now, I'm deep into:
 
 ## 📊 GitHub Stats
 
-![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edb616321&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edb616321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edb616321&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edb616321&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edb616321&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edb616321&theme=tokyonight&hide_border=true)
 
 ---
 
