@@ -30,6 +30,7 @@ I'm an AI Engineer and DevOps specialist based in Seattle, combining **machine l
 - ☁️ Expert in **cloud-native architectures, Kubernetes, and DevOps automation**
 - 🎮 Experimenting with **AI-powered game development** and interactive experiences
 - 🔧 Building real tools and systems, not just demos
+- 💼 **LinkedIn:** [linkedin.com/in/brookmaned](https://www.linkedin.com/in/brookmaned/)
 
 ---
 
@@ -74,7 +75,7 @@ Beyond my public repos, I'm actively developing several private and enterprise-f
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools (Sample)
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -87,10 +88,11 @@ Beyond my public repos, I'm actively developing several private and enterprise-f
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-- **Platforms:** AWS (EC2, S3, Lambda, ECS), Google Cloud
+- **Platforms:** AWS (EC2, S3, Lambda, ECS), Azure, Google Cloud
 - **Containers:** Docker, Kubernetes, Helm
 - **IaC:** Terraform, CloudFormation, Ansible
 
